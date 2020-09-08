@@ -19,8 +19,8 @@
   },
   "autoload": {
     "psr-4": {
-      "PhpLab\\Geo\\": "src",
-      "PhpLab\\Geo\\Tests\\": "tests"
+      "ZnFixture\\Geo\\": "src",
+      "ZnFixture\\Geo\\Tests\\": "tests"
     }
   }
 }
